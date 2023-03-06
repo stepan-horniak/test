@@ -1,0 +1,47 @@
+// font-family: 'Lato', sans-serif;
+// font-family: "Raleway", sans-serif;
+// font-family: 'Roboto', sans-serif;
+
+$media-1: 992px;
+
+$media-2: 768px;
+
+:root {
+	--test: 10px;
+}
+
+// color="base
+// color="gray-100
+// color="gray-200
+// color="gray-300
+// color="gray-400
+// color="gray-500
+// color="info
+// color="favorite
+// color="primary
+// color="secondary
+// color="tertiary
+// color="success
+// color="warning
+// color="danger
+// color="light
+// color="medium
+// color="dark
+.orange {
+	color: #ffffff;
+	background: linear-gradient(55.95deg, #ff3f3a 0%, #f75e05 100%);
+}
+.button {
+	font-weight: 700;
+
+	padding: 10px 30px;
+	border-radius: 4px;
+	white-space: nowrap;
+	border: 2px solid #ff3f3a;
+}
+.title {
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 130%;
+	color: #1e212c;
+}

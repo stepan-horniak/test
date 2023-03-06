@@ -1,0 +1,23 @@
+:root {
+  --test: 10px;
+}
+
+.orange {
+  color: #ffffff;
+  background: linear-gradient(55.95deg, #ff3f3a 0%, #f75e05 100%);
+}
+
+.button {
+  font-weight: 700;
+  padding: 10px 30px;
+  border-radius: 4px;
+  white-space: nowrap;
+  border: 2px solid #ff3f3a;
+}
+
+.title {
+  font-weight: 900;
+  font-size: 46px;
+  line-height: 130%;
+  color: #1e212c;
+}
